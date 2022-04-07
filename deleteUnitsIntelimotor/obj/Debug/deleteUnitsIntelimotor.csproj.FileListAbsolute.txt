@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Net\deleteUnitsIntelimotor\deleteUnitsIntelimotor\bin\Debug\deleteUnitsIntelimotor.exe.config
+C:\Users\user\Documents\Net\deleteUnitsIntelimotor\deleteUnitsIntelimotor\bin\Debug\deleteUnitsIntelimotor.exe
+C:\Users\user\Documents\Net\deleteUnitsIntelimotor\deleteUnitsIntelimotor\bin\Debug\deleteUnitsIntelimotor.pdb
+C:\Users\user\Documents\Net\deleteUnitsIntelimotor\deleteUnitsIntelimotor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\Net\deleteUnitsIntelimotor\deleteUnitsIntelimotor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\Net\deleteUnitsIntelimotor\deleteUnitsIntelimotor\obj\Debug\deleteUnitsIntelimotor.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Net\deleteUnitsIntelimotor\deleteUnitsIntelimotor\obj\Debug\deleteUnitsIntelimotor.csproj.CopyComplete
+C:\Users\user\Documents\Net\deleteUnitsIntelimotor\deleteUnitsIntelimotor\obj\Debug\deleteUnitsIntelimotor.exe
+C:\Users\user\Documents\Net\deleteUnitsIntelimotor\deleteUnitsIntelimotor\obj\Debug\deleteUnitsIntelimotor.pdb
